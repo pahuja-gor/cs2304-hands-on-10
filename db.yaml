@@ -4,7 +4,6 @@ metadata:
   name: db
   labels:
     app: voting-app
-    voting: isAvailable
     component: db
 spec:
   containers:
